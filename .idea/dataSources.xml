@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3124346423">
+    <data-source source="LOCAL" name="Rails sm-rc218: development" uuid="c0f0bb16-5185-4fd7-8739-97a4945ed3ab">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1/sm-rc218_development</jdbc-url>
+      <user-name>postgres</user-name>
+      <user-password>dfdadfeadfd9dfd9dfdddf9adfd8dfce</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails sm-rc218: test" uuid="a7926978-0fdb-4944-a1b9-eb3297313a12">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:sm-rc218_test</jdbc-url>
+      <user-name>sm-rc218</user-name>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails sm-rc218: production" uuid="7e5449d8-cfc0-4838-a280-4d0d4331b9ea">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:sm-rc218_production</jdbc-url>
+      <user-name>sm-rc218</user-name>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
