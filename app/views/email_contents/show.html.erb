@@ -1,0 +1,9 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Message:</strong>
+  <%= @email_content.message %>
+</p>
+
+<%= link_to 'Edit', edit_email_content_path(@email_content) %> |
+<%= link_to 'Back', email_contents_path %>

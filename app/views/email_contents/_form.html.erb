@@ -1,0 +1,29 @@
+<div id="email_noice" style="display: none"></div>
+<%= form_for(@email_content) do |f| %>
+  <% if @email_content.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@email_content.errors.count, "error") %> prohibited this email_content from being saved:</h2>
+
+      <ul>
+      <% @email_content.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :message %><br>
+    <%= f.text_field :message %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>
+
+<script>
+  $('#email_notice').hide();
+  $('#email_notice').append('j <%= flash[:notice] %>');
+  $('#email_notice').show(300);
+  $('#email_notice').hide(300);
+</script>
