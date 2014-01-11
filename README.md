@@ -44,5 +44,3 @@ call options object
 #see layout_generator.rb
 now run rails g layout --help #it will show stylesheet description
 ```
-
-
