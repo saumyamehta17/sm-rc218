@@ -45,3 +45,4 @@ call options object
 now run rails g layout --help #it will show stylesheet description
 ```
 
+

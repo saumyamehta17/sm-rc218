@@ -23,19 +23,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
+      <file leaf-file-name="stylesheet.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/generators/layout/templates/stylesheet.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="3" selection-start="1050" selection-end="1050" vertical-scroll-proportion="0.9512987" vertical-offset="89" max-vertical-offset="795">
+            <state line="2" column="1" selection-start="56" selection-end="56" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="stylesheet.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/generators/layout/templates/stylesheet.css">
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="44" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
+            <state line="45" column="3" selection-start="1050" selection-end="1050" vertical-scroll-proportion="-19.24" vertical-offset="194" max-vertical-offset="810">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="20" selection-start="432" selection-end="432" vertical-scroll-proportion="0.28081122" vertical-offset="0" max-vertical-offset="641">
               <folding />
             </state>
           </provider>
@@ -113,6 +122,7 @@
         <option value="$PROJECT_DIR$/lib/generators/layout/templates/layout.html.erb" />
         <option value="$PROJECT_DIR$/lib/generators/layout/layout_generator.rb" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -614,13 +624,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/generators/layout/templates/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="44" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/my_stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="1" selection-start="56" selection-end="56" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
@@ -649,9 +652,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/generators/layout/templates/stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="1" selection-start="56" selection-end="56" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="3" selection-start="1050" selection-end="1050" vertical-scroll-proportion="0.9512987" vertical-offset="89" max-vertical-offset="795">
+        <state line="45" column="3" selection-start="1050" selection-end="1050" vertical-scroll-proportion="-19.24" vertical-offset="194" max-vertical-offset="810">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="20" selection-start="432" selection-end="432" vertical-scroll-proportion="0.28081122" vertical-offset="0" max-vertical-offset="641">
           <folding />
         </state>
       </provider>
